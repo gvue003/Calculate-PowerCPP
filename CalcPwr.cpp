@@ -14,6 +14,6 @@ int main() {
     int x = 2;
     unsigned n = 3;
     int result = power(x, n);
-    std::cout << "result of " << x << " raised the power of " << n << " is: " << result << std::endl;
+    std::cout << "something result of " << x << " something raised the power of " << n << " is something: " << result << std::endl;
     return 0;
 }

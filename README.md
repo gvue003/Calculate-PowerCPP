@@ -1,1 +1,3 @@
-# Calculate-PowerCPP
+Calculate Power
+
+Language: C++
